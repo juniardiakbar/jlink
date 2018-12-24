@@ -38,3 +38,8 @@
 13. Jika Anda memilih Interpolasi, akan ditampilkan persamaan yang mendekati titik-titik yang Anda masukkan.
 	Contoh :
 	4.56x^2 + x + 3.23 
+
+### Credits
+Muhammad Fathur Rahman - 13515068
+Didik Supriadi - 13517069
+Juniardi Akbar - 13517075
