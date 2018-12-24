@@ -40,6 +40,6 @@
 	4.56x^2 + x + 3.23 
 
 ### Credits
-Muhammad Fathur Rahman - 13515068
+Fatur Rahman - 13517056
 Didik Supriadi - 13517069
 Juniardi Akbar - 13517075
